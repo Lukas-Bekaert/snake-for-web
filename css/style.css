@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#game {
+    background: cornsilk;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+#snake {
+    background-color: black;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
