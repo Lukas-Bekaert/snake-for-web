@@ -1,2 +1,3 @@
 # snake-for-web
-browser based snake
+
+browser based snake game
